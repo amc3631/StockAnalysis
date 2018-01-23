@@ -1,5 +1,5 @@
 # StockAnalysis
-Read stock data from file and write all local extrema found in data.
+Read stock data from file and write all local extrema found in data. Calculate simple moving average and write local extreme of the averaged data to give a more general idea of the highs and lows of the stock. Project is a Microsoft Visual Studio C++ solution.
 
 How to use:
 
