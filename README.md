@@ -1,12 +1,11 @@
 # StockAnalysis
-Read stock data from file and write all local extrema found in data. Calculate simple moving average and write local extreme of the averaged data to give a more general idea of the highs and lows of the stock. Project is a Microsoft Visual Studio C++ solution.
+Read stock data from file and write all local extrema found in data. Calculate simple moving average and write local extreme of the averaged data to give a more general idea of the highs and lows of the stock. Intended to be used in tandem with micrososft excel. Project is a Microsoft Visual Studio C++ solution.
 
 How to use:
 
 Download excel file containing relevant stock data from http://www.nasdaq.com/quotes/historical-quotes.aspx
 
-Copy data from the excel file into the "data.txt" file found in the "StockAnalysis" folder. Please copy every column of data as well as the
-column names (date, low, high, etc).
+Copy data from the excel file into the "data.txt" file found in the "StockAnalysis" folder. Please copy every column of data as well as the column names (date, low, high, etc).
 
 Data file should look something like this:
 
